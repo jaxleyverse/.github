@@ -1,4 +1,4 @@
-## Jaxleyverse: Differentiable neuron simulations on CPU, GPU, or TPU
+## Jaxleyverse: Differentiable neuron simulations
 
 The `Jaxleyverse` contains code for differentiable neuron simulations in Python.
 
