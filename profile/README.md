@@ -1,4 +1,4 @@
-# Jaxleyverse: Differentiable neuron simulations on CPU, GPU, or TPU
+## Jaxleyverse: Differentiable neuron simulations on CPU, GPU, or TPU
 
 The `Jaxleyverse` contains code for simulating neurons with automatic differentiation and on accelerators (CPU, GPU, or TPU).
 
